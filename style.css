@@ -1,8 +1,24 @@
+
+body {
+  background-color: #F5F5F5;
+}
+
+.col-md-4 {
+  margin: 10px;
+}
+
+.footercontent {
+  color: white;
+  line-height: 30px;
+}
+
+
+
 .col-md-3 {
   background: black;
   color: white;
   padding:10px;
-  height: 200px;
+  height: 300px;
 }
 
 .fitness {
@@ -12,6 +28,26 @@
 }
 .health {
   margin:10px;
+
+
+}
+
+.img-fluid {
+  width:100%;
+  height: 200px;
+}
+
+.goals {
+  margin:10px;
+}
+
+.jumbotron {
+  background-color: black;
+}
+
+.logo {
+  width: auto;
+  height: 25px;
 
 
 }
